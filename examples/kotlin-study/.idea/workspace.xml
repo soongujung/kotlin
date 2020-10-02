@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1a25c88-e38e-40a4-a153-68072e7f0da4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Address.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ELK/elasticsearch-basic/ElasticSearch_CRUD.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ELK/elasticsearch-basic/ElasticSearch_CRUD.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ELK/swarm/docker-elk/dump/mapping_kospi_ecos.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ELK/swarm/docker-elk/dump/mapping_kospi_ecos.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend/vuejs/ppt/~$VueJS_Cheet_Sheet.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/JPA/Basic/1_basic_flow/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/JPA/Basic/1_basic_flow/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/JPA/Basic/1_basic_flow/src/main/java/jpabasic/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/JPA/Basic/1_basic_flow/src/main/java/jpabasic/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/JPA/Basic/1_basic_flow/src/main/java/jpabasic/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/JPA/Basic/1_basic_flow/src/main/java/jpabasic/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/JPA/Basic/JPA_기본편_(2)-_영속성 관리_내부동작방식.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/JPA/Basic/JPA_기본편_(2)-_영속성 관리_내부동작방식.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/JPA/매핑관계_연습.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/JPA/매핑관계_연습.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/TDD/SpringBoot에서_Mockito_JUnit5로_이것저것_테스트해보기(3)-엔티티매핑테스트.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/TDD/SpringBoot에서_Mockito_JUnit5로_이것저것_테스트해보기(3)-엔티티매핑테스트.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/TDD/example/tddforall/src/test/java/io/study/tdd/tddforall/TempTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/TDD/example/tddforall/src/test/java/io/study/tdd/tddforall/TempTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/just_some_test/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/just_some_test/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/just_some_test/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/just_some_test/src/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/spring/rest-client/SpringBoot에서_Feign_사용하기.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/spring/rest-client/SpringBoot에서_Feign_사용하기.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/spring/rest-client/feign/examples/resilience4j-feign-1/src/main/java/io/study/resilience4jfeign1/config/JsonPlaceholderCircuitConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/spring/rest-client/feign/examples/resilience4j-feign-1/src/main/java/io/study/resilience4jfeign1/config/JsonPlaceholderCircuitConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/spring/security/example/auth_anonymous/src/main/java/io/security/auth_anonymous/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/spring/security/example/auth_anonymous/src/main/java/io/security/auth_anonymous/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/spring/security/example/auth_anonymous/src/main/java/io/security/auth_anonymous/config/MySecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/spring/security/example/auth_anonymous/src/main/java/io/security/auth_anonymous/config/MySecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/ProductTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/ProductTest.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iEBD52beBr1BCwNgSRG3rF5xnA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/kotlin" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProductTest.testDataProduct_product_destructuring">
+    <configuration name="ProductTest.testDataProduct1$kotlin_study" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-study.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductTest" />
+      <option name="METHOD_NAME" value="testDataProduct1$kotlin_study" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductTest.testDataProduct_copy_swallow_copy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-study.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductTest" />
+      <option name="METHOD_NAME" value="testDataProduct_copy_swallow_copy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductTest.testDataProduct_equals_hashCode$kotlin_study" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-study.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductTest" />
+      <option name="METHOD_NAME" value="testDataProduct_equals_hashCode$kotlin_study" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductTest.testDataProduct_equals_hashCode_bySet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-study.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductTest" />
+      <option name="METHOD_NAME" value="testDataProduct_equals_hashCode_bySet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductTest.testDataProduct_product_destructuring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-study.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductTest" />
+      <option name="METHOD_NAME" value="testDataProduct_product_destructuring" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductTest.testDataProduct_product_destructuring" />
+        <item itemvalue="JUnit.ProductTest.testDataProduct_copy_swallow_copy" />
+        <item itemvalue="JUnit.ProductTest.testDataProduct_equals_hashCode_bySet" />
+        <item itemvalue="JUnit.ProductTest.testDataProduct_equals_hashCode$kotlin_study" />
+        <item itemvalue="JUnit.ProductTest.testDataProduct1$kotlin_study" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1a25c88-e38e-40a4-a153-68072e7f0da4" name="Default Changelist" comment="" />
+      <created>1601462747039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601462747039</updated>
+      <workItem from="1601462748425" duration="7987000" />
+      <workItem from="1601509770033" duration="528000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1156" height="229" key="GridCell.Tab.0.bottom" timestamp="1601472655904">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1156" height="229" key="GridCell.Tab.0.bottom/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601472655904" />
+    <state width="1156" height="229" key="GridCell.Tab.0.center" timestamp="1601472655903">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1156" height="229" key="GridCell.Tab.0.center/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601472655903" />
+    <state width="1156" height="229" key="GridCell.Tab.0.left" timestamp="1601472655902">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1156" height="229" key="GridCell.Tab.0.left/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601472655902" />
+    <state width="1156" height="229" key="GridCell.Tab.0.right" timestamp="1601472655903">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1156" height="229" key="GridCell.Tab.0.right/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601472655903" />
+    <state x="-1613" y="34" key="SettingsEditor" timestamp="1601463376038">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state x="-1613" y="34" key="SettingsEditor/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601463376038" />
+    <state x="-1255" y="296" key="chooseDestDirectoryDialog" timestamp="1601464523828">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state x="-1255" y="296" key="chooseDestDirectoryDialog/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601464523828" />
+    <state x="-1264" y="171" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1601464523877">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state x="-1264" y="171" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601464523877" />
+  </component>
+</project>

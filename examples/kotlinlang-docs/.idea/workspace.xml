@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34520705-c8dc-4643-a388-6d605a2a01dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../kotlin-study/src/main/kotlin/Address.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/more_language_constructs/ScopeFunctionsTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ELK/elasticsearch-basic/ElasticSearch_CRUD.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ELK/elasticsearch-basic/ElasticSearch_CRUD.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ELK/swarm/docker-elk/dump/mapping_kospi_ecos.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ELK/swarm/docker-elk/dump/mapping_kospi_ecos.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend/vuejs/ppt/~$VueJS_Cheet_Sheet.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/JPA/Basic/1_basic_flow/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/JPA/Basic/1_basic_flow/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/JPA/Basic/1_basic_flow/src/main/java/jpabasic/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/JPA/Basic/1_basic_flow/src/main/java/jpabasic/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/JPA/Basic/1_basic_flow/src/main/java/jpabasic/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/JPA/Basic/1_basic_flow/src/main/java/jpabasic/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/JPA/Basic/JPA_기본편_(2)-_영속성 관리_내부동작방식.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/JPA/Basic/JPA_기본편_(2)-_영속성 관리_내부동작방식.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/JPA/매핑관계_연습.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/JPA/매핑관계_연습.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/TDD/SpringBoot에서_Mockito_JUnit5로_이것저것_테스트해보기(3)-엔티티매핑테스트.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/TDD/SpringBoot에서_Mockito_JUnit5로_이것저것_테스트해보기(3)-엔티티매핑테스트.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/TDD/example/tddforall/src/test/java/io/study/tdd/tddforall/TempTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/TDD/example/tddforall/src/test/java/io/study/tdd/tddforall/TempTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/just_some_test/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/just_some_test/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/just_some_test/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/just_some_test/src/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/spring/rest-client/SpringBoot에서_Feign_사용하기.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/spring/rest-client/SpringBoot에서_Feign_사용하기.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/spring/rest-client/feign/examples/resilience4j-feign-1/src/main/java/io/study/resilience4jfeign1/config/JsonPlaceholderCircuitConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/spring/rest-client/feign/examples/resilience4j-feign-1/src/main/java/io/study/resilience4jfeign1/config/JsonPlaceholderCircuitConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/spring/security/example/auth_anonymous/src/main/java/io/security/auth_anonymous/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/spring/security/example/auth_anonymous/src/main/java/io/security/auth_anonymous/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/spring/security/example/auth_anonymous/src/main/java/io/security/auth_anonymous/config/MySecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/spring/security/example/auth_anonymous/src/main/java/io/security/auth_anonymous/config/MySecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin-study/src/test/kotlin/ProductTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin-study/src/test/kotlin/ProductTest.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iHNAQnFGeUXAliWn4uKCxjcFUa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="more_language_constructs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ScopeFunctionsTest.testTakeIfTakeUnless3">
+    <configuration name="ScopeFunctionsTest.testAlso" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kotlinlang-docs.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="more_language_constructs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="more_language_constructs" />
+      <option name="MAIN_CLASS_NAME" value="more_language_constructs.ScopeFunctionsTest" />
+      <option name="METHOD_NAME" value="testAlso" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScopeFunctionsTest.testTakIfTakeUnless1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kotlinlang-docs.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="more_language_constructs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="more_language_constructs" />
+      <option name="MAIN_CLASS_NAME" value="more_language_constructs.ScopeFunctionsTest" />
+      <option name="METHOD_NAME" value="testTakIfTakeUnless1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScopeFunctionsTest.testTakeIfTakeUnless1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kotlinlang-docs.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="more_language_constructs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="more_language_constructs" />
+      <option name="MAIN_CLASS_NAME" value="more_language_constructs.ScopeFunctionsTest" />
+      <option name="METHOD_NAME" value="testTakeIfTakeUnless1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScopeFunctionsTest.testTakeIfTakeUnless2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kotlinlang-docs.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="more_language_constructs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="more_language_constructs" />
+      <option name="MAIN_CLASS_NAME" value="more_language_constructs.ScopeFunctionsTest" />
+      <option name="METHOD_NAME" value="testTakeIfTakeUnless2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScopeFunctionsTest.testTakeIfTakeUnless3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kotlinlang-docs.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="more_language_constructs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="more_language_constructs" />
+      <option name="MAIN_CLASS_NAME" value="more_language_constructs.ScopeFunctionsTest" />
+      <option name="METHOD_NAME" value="testTakeIfTakeUnless3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ScopeFunctionsTest.testTakeIfTakeUnless3" />
+        <item itemvalue="JUnit.ScopeFunctionsTest.testTakeIfTakeUnless2" />
+        <item itemvalue="JUnit.ScopeFunctionsTest.testTakeIfTakeUnless1" />
+        <item itemvalue="JUnit.ScopeFunctionsTest.testTakIfTakeUnless1" />
+        <item itemvalue="JUnit.ScopeFunctionsTest.testAlso" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34520705-c8dc-4643-a388-6d605a2a01dd" name="Default Changelist" comment="" />
+      <created>1601560413915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601560413915</updated>
+      <workItem from="1601560418944" duration="25358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1582" y="312" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1601561743060">
+      <screen x="-1920" y="23" width="1920" height="1016" />
+    </state>
+    <state x="-1582" y="312" key="#com.intellij.ide.util.PackageChooserDialog/-1920.23.1920.1016/0.23.1680.1027@-1920.23.1920.1016" timestamp="1601561743060" />
+    <state x="-1610" y="328" width="839" height="506" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1601561748209">
+      <screen x="-1920" y="23" width="1920" height="1016" />
+    </state>
+    <state x="-1610" y="328" width="839" height="506" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/-1920.23.1920.1016/0.23.1680.1027@-1920.23.1920.1016" timestamp="1601561748209" />
+    <state width="1085" height="131" key="GridCell.Tab.0.bottom" timestamp="1601628197534">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1085" height="261" key="GridCell.Tab.0.bottom/-1920.23.1920.1016/0.23.1680.1027@-1920.23.1920.1016" timestamp="1601617593283" />
+    <state width="1085" height="131" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1680.990@-1920.23.1920.1057" timestamp="1601628197534" />
+    <state width="1085" height="131" key="GridCell.Tab.0.center" timestamp="1601628197533">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1085" height="261" key="GridCell.Tab.0.center/-1920.23.1920.1016/0.23.1680.1027@-1920.23.1920.1016" timestamp="1601617593283" />
+    <state width="1085" height="131" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1680.990@-1920.23.1920.1057" timestamp="1601628197533" />
+    <state width="1085" height="131" key="GridCell.Tab.0.left" timestamp="1601628197533">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1085" height="261" key="GridCell.Tab.0.left/-1920.23.1920.1016/0.23.1680.1027@-1920.23.1920.1016" timestamp="1601617593282" />
+    <state width="1085" height="131" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1680.990@-1920.23.1920.1057" timestamp="1601628197533" />
+    <state width="1085" height="131" key="GridCell.Tab.0.right" timestamp="1601628197534">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1085" height="261" key="GridCell.Tab.0.right/-1920.23.1920.1016/0.23.1680.1027@-1920.23.1920.1016" timestamp="1601617593283" />
+    <state width="1085" height="131" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1680.990@-1920.23.1920.1057" timestamp="1601628197534" />
+    <state x="-1852" y="132" key="SettingsEditor" timestamp="1601561285554">
+      <screen x="-1920" y="23" width="1920" height="1016" />
+    </state>
+    <state x="-1852" y="132" key="SettingsEditor/-1920.23.1920.1016/0.23.1680.1027@-1920.23.1920.1016" timestamp="1601561285554" />
+    <state x="-1637" y="313" key="refactoring.ChangeSignatureDialog" timestamp="1601603001706">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1637" y="313" key="refactoring.ChangeSignatureDialog/-1920.23.1920.1057/0.23.1680.990@-1920.23.1920.1057" timestamp="1601603001706" />
+    <state x="-1692" y="23" width="851" height="1057" key="search.everywhere.popup" timestamp="1601627738077">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1692" y="23" width="851" height="1016" key="search.everywhere.popup/-1920.23.1920.1016/0.23.1680.1027@-1920.23.1920.1016" timestamp="1601565382467" />
+    <state x="-1692" y="23" width="851" height="1057" key="search.everywhere.popup/-1920.23.1920.1057/0.23.1680.990@-1920.23.1920.1057" timestamp="1601627738077" />
+  </component>
+</project>

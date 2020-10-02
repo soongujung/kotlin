@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4212751-e7b6-453f-9562-c5bebe43773a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../ELK/elasticsearch-basic/ElasticSearch_CRUD.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../ELK/elasticsearch-basic/ElasticSearch_CRUD.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ELK/swarm/docker-elk/dump/mapping_kospi_ecos.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../ELK/swarm/docker-elk/dump/mapping_kospi_ecos.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/vuejs/ppt/~$VueJS_Cheet_Sheet.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/JPA/Basic/1_basic_flow/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/JPA/Basic/1_basic_flow/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/JPA/Basic/1_basic_flow/src/main/java/jpabasic/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/JPA/Basic/1_basic_flow/src/main/java/jpabasic/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/JPA/Basic/1_basic_flow/src/main/java/jpabasic/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/JPA/Basic/1_basic_flow/src/main/java/jpabasic/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/JPA/Basic/JPA_기본편_(2)-_영속성 관리_내부동작방식.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/JPA/Basic/JPA_기본편_(2)-_영속성 관리_내부동작방식.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/JPA/매핑관계_연습.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/JPA/매핑관계_연습.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/TDD/SpringBoot에서_Mockito_JUnit5로_이것저것_테스트해보기(3)-엔티티매핑테스트.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/TDD/SpringBoot에서_Mockito_JUnit5로_이것저것_테스트해보기(3)-엔티티매핑테스트.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/TDD/example/tddforall/src/test/java/io/study/tdd/tddforall/TempTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/TDD/example/tddforall/src/test/java/io/study/tdd/tddforall/TempTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/just_some_test/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/just_some_test/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/just_some_test/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/just_some_test/src/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/spring/rest-client/SpringBoot에서_Feign_사용하기.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/spring/rest-client/SpringBoot에서_Feign_사용하기.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/spring/rest-client/feign/examples/resilience4j-feign-1/src/main/java/io/study/resilience4jfeign1/config/JsonPlaceholderCircuitConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/spring/rest-client/feign/examples/resilience4j-feign-1/src/main/java/io/study/resilience4jfeign1/config/JsonPlaceholderCircuitConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/spring/security/example/auth_anonymous/src/main/java/io/security/auth_anonymous/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/spring/security/example/auth_anonymous/src/main/java/io/security/auth_anonymous/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/spring/security/example/auth_anonymous/src/main/java/io/security/auth_anonymous/config/MySecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/spring/security/example/auth_anonymous/src/main/java/io/security/auth_anonymous/config/MySecurityConfig.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Script" />
+        <option value="Kotlin Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1i2sNbRjWf5rGE41wBRz15PJTQg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/src/sample/EnumTest.kt" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="kotlin" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="sample" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.kts" type="KotlinStandaloneScriptRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="hello-kotlin" />
+      <option name="filePath" value="$PROJECT_DIR$/src/sample/main.kts" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/src/sample" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" value="$PROJECT_DIR$/src/sample/main.kts" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/src/sample" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin script.main.kts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4212751-e7b6-453f-9562-c5bebe43773a" name="Default Changelist" comment="" />
+      <created>1601116982138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601116982138</updated>
+      <workItem from="1601116985054" duration="783000" />
+      <workItem from="1601383341792" duration="510000" />
+      <workItem from="1601383876989" duration="2502000" />
+      <workItem from="1601386402555" duration="4634000" />
+      <workItem from="1601455605267" duration="478000" />
+      <workItem from="1601456276648" duration="13000" />
+      <workItem from="1601456390242" duration="187000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1460" y="115" key="#Intentions" timestamp="1601456051755">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state x="-1460" y="115" key="#Intentions/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601456051755" />
+    <state x="-1497" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601384003694">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state x="-1497" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601384003694" />
+    <state width="1868" height="50" key="GridCell.Tab.0.bottom" timestamp="1601391442924">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1868" height="50" key="GridCell.Tab.0.bottom/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601391442924" />
+    <state width="1868" height="50" key="GridCell.Tab.0.center" timestamp="1601391442923">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1868" height="50" key="GridCell.Tab.0.center/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601391442923" />
+    <state width="1868" height="50" key="GridCell.Tab.0.left" timestamp="1601391442923">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1868" height="50" key="GridCell.Tab.0.left/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601391442923" />
+    <state width="1868" height="50" key="GridCell.Tab.0.right" timestamp="1601391442923">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1868" height="50" key="GridCell.Tab.0.right/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601391442923" />
+    <state x="-1344" y="122" key="SettingsEditor" timestamp="1601383986387">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state x="-1344" y="122" key="SettingsEditor/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601383986387" />
+    <state x="-1241" y="177" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1601456425316">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state x="-1241" y="177" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601456425316" />
+    <state x="-1386" y="23" width="851" height="1032" key="search.everywhere.popup" timestamp="1601390268574">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state x="-1386" y="23" width="851" height="1032" key="search.everywhere.popup/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601390268574" />
+  </component>
+</project>

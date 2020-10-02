@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdb8f310-7719-4e21-bdf1-493c31f7c589" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../ELK/elasticsearch-basic/ElasticSearch_CRUD.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ELK/elasticsearch-basic/ElasticSearch_CRUD.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ELK/swarm/docker-elk/dump/mapping_kospi_ecos.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ELK/swarm/docker-elk/dump/mapping_kospi_ecos.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend/vuejs/ppt/~$VueJS_Cheet_Sheet.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/JPA/Basic/1_basic_flow/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/JPA/Basic/1_basic_flow/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/JPA/Basic/1_basic_flow/src/main/java/jpabasic/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/JPA/Basic/1_basic_flow/src/main/java/jpabasic/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/JPA/Basic/1_basic_flow/src/main/java/jpabasic/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/JPA/Basic/1_basic_flow/src/main/java/jpabasic/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/JPA/Basic/JPA_기본편_(2)-_영속성 관리_내부동작방식.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/JPA/Basic/JPA_기본편_(2)-_영속성 관리_내부동작방식.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/JPA/매핑관계_연습.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/JPA/매핑관계_연습.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/TDD/SpringBoot에서_Mockito_JUnit5로_이것저것_테스트해보기(3)-엔티티매핑테스트.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/TDD/SpringBoot에서_Mockito_JUnit5로_이것저것_테스트해보기(3)-엔티티매핑테스트.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/TDD/example/tddforall/src/test/java/io/study/tdd/tddforall/TempTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/TDD/example/tddforall/src/test/java/io/study/tdd/tddforall/TempTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/just_some_test/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/just_some_test/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/just_some_test/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/just_some_test/src/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/spring/rest-client/SpringBoot에서_Feign_사용하기.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/spring/rest-client/SpringBoot에서_Feign_사용하기.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/spring/rest-client/feign/examples/resilience4j-feign-1/src/main/java/io/study/resilience4jfeign1/config/JsonPlaceholderCircuitConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/spring/rest-client/feign/examples/resilience4j-feign-1/src/main/java/io/study/resilience4jfeign1/config/JsonPlaceholderCircuitConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/spring/security/example/auth_anonymous/src/main/java/io/security/auth_anonymous/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/spring/security/example/auth_anonymous/src/main/java/io/security/auth_anonymous/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/spring/security/example/auth_anonymous/src/main/java/io/security/auth_anonymous/config/MySecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/spring/security/example/auth_anonymous/src/main/java/io/security/auth_anonymous/config/MySecurityConfig.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kotlin-junit" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iE4x5gGTTlDSfxOl8DpyukRCVl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/kotlin" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProductTest.test something$kotlin_junit_test">
+    <configuration name="ProductTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ProductTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProductTestKt" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ProductTestKt&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProductTest.test something$kotlin_junit" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ProductTest.test something$kotlin_junit&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProductTest.test something$kotlin_junit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-junit.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductTest" />
+      <option name="METHOD_NAME" value="test something$kotlin_junit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductTest.test something$kotlin_junit_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-junit.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductTest" />
+      <option name="METHOD_NAME" value="test something$kotlin_junit_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductTest.test something$kotlin_junit_test" />
+        <item itemvalue="JUnit.ProductTest.test something$kotlin_junit" />
+        <item itemvalue="Gradle.ProductTest.test something$kotlin_junit" />
+        <item itemvalue="Gradle.ProductTest" />
+        <item itemvalue="Gradle.ProductTestKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdb8f310-7719-4e21-bdf1-493c31f7c589" name="Default Changelist" comment="" />
+      <created>1601459660059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601459660059</updated>
+      <workItem from="1601459661365" duration="2246000" />
+      <workItem from="1601462229551" duration="90000" />
+      <workItem from="1601462774670" duration="747000" />
+      <workItem from="1601509661307" duration="70000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1628" height="217" key="GridCell.Tab.0.bottom" timestamp="1601472687765">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1628" height="217" key="GridCell.Tab.0.bottom/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601472687765" />
+    <state width="1628" height="217" key="GridCell.Tab.0.center" timestamp="1601472687764">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1628" height="217" key="GridCell.Tab.0.center/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601472687764" />
+    <state width="1628" height="217" key="GridCell.Tab.0.left" timestamp="1601472687764">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1628" height="217" key="GridCell.Tab.0.left/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601472687764" />
+    <state width="1628" height="217" key="GridCell.Tab.0.right" timestamp="1601472687764">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state width="1628" height="217" key="GridCell.Tab.0.right/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601472687764" />
+    <state x="327" y="83" key="SettingsEditor" timestamp="1601462832020">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="-1546" y="82" key="SettingsEditor/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601461870106" />
+    <state x="327" y="83" key="SettingsEditor/-1920.23.1920.1015/0.23.1680.1027@0.23.1680.1027" timestamp="1601462832020" />
+    <state x="-1232" y="302" key="chooseDestDirectoryDialog" timestamp="1601461624470">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state x="-1232" y="302" key="chooseDestDirectoryDialog/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601461624470" />
+    <state x="-1820" y="123" width="1720" height="815" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601461634902">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state x="-1820" y="123" width="1720" height="815" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601461634902" />
+    <state x="-1443" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1601459815426">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state x="-1443" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601459815426" />
+    <state x="-1810" y="76" width="1759" height="783" key="new project wizard" timestamp="1601461977089">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state x="-1920" y="55" key="new project wizard/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601461948685" />
+    <state x="-1810" y="76" width="1759" height="783" key="new project wizard/-1920.23.1920.1015/0.23.1680.1027@0.23.1680.1027" timestamp="1601461977089" />
+    <state x="-1241" y="177" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1601461624510">
+      <screen x="-1920" y="23" width="1920" height="1015" />
+    </state>
+    <state x="-1241" y="177" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/-1920.23.1920.1015/0.23.1680.1027@-1920.23.1920.1015" timestamp="1601461624510" />
+  </component>
+</project>
